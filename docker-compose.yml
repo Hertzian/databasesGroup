@@ -46,5 +46,5 @@ services:
       - my-beauty-network
 
 networks:
-  my-beauty-network:
+  "${add-your-custom-network}":
     external: true
