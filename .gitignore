@@ -1,0 +1,7 @@
+.env
+/maria/data/*
+!/maria/data/.gitkeep
+/mongo/data/*
+!/mongo/data/.gitkeep
+/postgres/data/*
+!/postgres/data/.gitkeep
